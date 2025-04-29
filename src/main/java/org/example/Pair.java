@@ -27,3 +27,4 @@ public class Pair<K, V> {
     public String toString() {
         return "(Key: " + key + ", Value: " + value + ")";
     }
+}
